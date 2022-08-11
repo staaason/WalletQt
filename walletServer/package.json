@@ -1,0 +1,26 @@
+{
+  "name": "easy-pay-server",
+  "version": "1.0.0",
+  "description": "Server for an educative Dapp \"Easy pay\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "dapp"
+  ],
+  "author": "eokrrp",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "eth-permit": "^0.2.1",
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.17.1",
+    "ganache": "^7.3.2",
+    "ganache-cli": "^6.12.2",
+    "solc": "^0.8.15",
+    "web3": "^1.0.0-beta.55",
+    "web3-eth-accounts": "^1.7.4"
+  }
+}

@@ -1,0 +1,57 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Buy.qml</file>
+        <file>Sell.qml</file>
+        <file>Send.qml</file>
+        <file>History.qml</file>
+        <file>Login.qml</file>
+        <file>crypto-js/src/aes.js</file>
+        <file>crypto-js/src/cipher-core.js</file>
+        <file>crypto-js/src/core.js</file>
+        <file>crypto-js/src/enc-base64.js</file>
+        <file>crypto-js/src/enc-utf16.js</file>
+        <file>crypto-js/src/evpkdf.js</file>
+        <file>crypto-js/src/format-hex.js</file>
+        <file>crypto-js/src/hmac.js</file>
+        <file>crypto-js/src/lib-typedarrays.js</file>
+        <file>crypto-js/src/md5.js</file>
+        <file>crypto-js/src/mode-cfb.js</file>
+        <file>crypto-js/src/mode-ctr-gladman.js</file>
+        <file>crypto-js/src/mode-ctr.js</file>
+        <file>crypto-js/src/mode-ecb.js</file>
+        <file>crypto-js/src/mode-ofb.js</file>
+        <file>crypto-js/src/pad-ansix923.js</file>
+        <file>crypto-js/src/pad-iso10126.js</file>
+        <file>crypto-js/src/pad-iso97971.js</file>
+        <file>crypto-js/src/pad-nopadding.js</file>
+        <file>crypto-js/src/pad-zeropadding.js</file>
+        <file>crypto-js/src/pbkdf2.js</file>
+        <file>crypto-js/src/rabbit-legacy.js</file>
+        <file>crypto-js/src/rabbit.js</file>
+        <file>crypto-js/src/rc4.js</file>
+        <file>crypto-js/src/ripemd160.js</file>
+        <file>crypto-js/src/sha1.js</file>
+        <file>crypto-js/src/sha224.js</file>
+        <file>crypto-js/src/sha256.js</file>
+        <file>crypto-js/src/sha3.js</file>
+        <file>crypto-js/src/sha384.js</file>
+        <file>crypto-js/src/sha512.js</file>
+        <file>crypto-js/src/tripledes.js</file>
+        <file>crypto-js/src/x64-core.js</file>
+        <file>crypto-js/crypto-js.js</file>
+        <file>crypto-js/encrypt.js</file>
+    </qresource>
+    <qresource prefix="/src">
+        <file>apritoken-logo.png</file>
+        <file>logo.png</file>
+        <file>back.png</file>
+        <file>copy.png</file>
+        <file>eth-logo.png</file>
+        <file>history.png</file>
+        <file>minus.png</file>
+        <file>plus.png</file>
+        <file>send.png</file>
+        <file>sidebar-user-icon.png</file>
+    </qresource>
+</RCC>
